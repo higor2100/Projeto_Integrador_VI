@@ -20,12 +20,12 @@ sudo apt-get install python3
 ```
 Em sequencia, execute esses comandos:
 ```xml
-python -m pip install --upgrade pip
-python -m pip install scipy
-python -m pip install PyOpenGL
-python -m pip install PyOpenGL_accelerate
-python -m pip install pygame
-python -m pip install matplotlib
-python -m pip install numpy==1.19.3
+python3 -m pip install --upgrade pip
+python3 -m pip install scipy
+python3 -m pip install PyOpenGL
+python3 -m pip install PyOpenGL_accelerate
+python3 -m pip install pygame
+python3 -m pip install matplotlib
+python3 -m pip install numpy==1.19.3
 ```
 <br>O Numpy não roda muito bem a tkinter, sendo necessario utilizar uma versão especifica
