@@ -1,4 +1,4 @@
-# Projeto_Integrador_VI
+# Projeto Integrador VI
 <br>Atividade de Simulação em Terceira Dimensão utilizando o OpenGL, Matplotlib, entre outras ferramentas de desenvolvimento como o PyGame
 <br>
 ## :hammer: Configurando
