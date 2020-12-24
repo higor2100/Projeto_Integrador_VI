@@ -3,7 +3,7 @@
 <br>
 ## :hammer: Configurando
 ### Instalação Sistema Operacional Windows:
-Na máquina com o Windows, instale o Python(https://www.python.org/downloads/) (recomendado a versão 3.7), em seguida:
+Na máquina com o Windows, instale o [Python](https://www.python.org/downloads/) (recomendado a versão 3.7), em seguida:
 ```xml
 python -m pip install --upgrade pip
 python -m pip install scipy
