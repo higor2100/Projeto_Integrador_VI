@@ -18,7 +18,7 @@ Na máquina com o Ubuntu, normalmente vem instalado alguma versão python na maq
 ```xml
 sudo apt-get install python3
 ```
-<br>Em sequencia, execute esses comandos:
+Em sequencia, execute esses comandos:
 ```xml
 python -m pip install --upgrade pip
 python -m pip install scipy
