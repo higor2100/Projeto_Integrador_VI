@@ -1,7 +1,7 @@
 # Projeto_Integrador_VI
 <br>Atividade de Simulação em Terceira Dimensão utilizando o OpenGL, Matplotlib, entre outras ferramentas de desenvolvimento como o PyGame
 <br>
-<br>Instalação Sistema Operacional Windows:
+##Instalação Sistema Operacional Windows:
 <br>
 <br>Na máquina com o Windows, instale o Python (recomendado a versão 3.7), em seguida:
 <br>python -m pip install --upgrade pip
@@ -12,7 +12,7 @@
 <br>python -m pip install matplotlib
 <br>python -m pip install numpy==1.19.3
 <br>
-<br>Instalação Sistema Operacional Ubuntu:
+##Instalação Sistema Operacional Ubuntu:
 <br>
 <br>Na máquina com o Ubuntu, instale o Python (recomendado a versão 3.7), em seguida:
 <br>python -m pip install --upgrade pip
