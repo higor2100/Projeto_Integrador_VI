@@ -15,7 +15,9 @@ python -m pip install numpy==1.19.3
 ```
 ### Instalação Sistema Operacional Ubuntu:
 Na máquina com o Ubuntu, normalmente vem instalado alguma versão python na maquina, caso seja necessario instalar, rode no terminal o comando:
-<br>sudo apt-get install python3
+```xml
+sudo apt-get install python3
+```
 <br>Em sequencia, execute esses comandos:
 ```xml
 python -m pip install --upgrade pip
