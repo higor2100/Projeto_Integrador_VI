@@ -13,7 +13,7 @@
 <br>python -m pip install matplotlib
 <br>python -m pip install numpy==1.19.3
 <br>
-#### Instalação Sistema Operacional Ubuntu:
+##### Instalação Sistema Operacional Ubuntu:
 <br>
 <br>Na máquina com o Ubuntu, instale o Python (recomendado a versão 3.7), em seguida:
 <br>python -m pip install --upgrade pip
